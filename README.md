@@ -7,8 +7,9 @@ This project is a management system for a large health fund, designed to handle 
 ## Features
 
 - **View Members**: Browse a list of health fund members.
+- **Add Member**: Add new member to the system.
 - **Edit Member Profiles**: Modify details of member profiles.
-- **Delete Members**: Remove member records from the system.
+- **Delete Member**: Remove member records from the system.
 - **Upload Member Pictures**: Add or update members' photographs.
 - **View Statistics**: Access visual statistics related to Corona.
 - **Corona Record Management**: Maintain detailed records of Corona cases within the database.
