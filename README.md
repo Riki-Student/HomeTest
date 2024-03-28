@@ -21,7 +21,7 @@ This project is a management system for a large health fund, designed to handle 
 
 ![HOME!](screens/home.png)
 ![ADD!](screens/add1.png)
-![CONTINUE_ADD!](screens/add2.png)
+![CONTINUE_ADD!](screens/addperson2.png)
 ![DETAILS!](screens/details.png)
 ![STATISTICS!](screens/סטטיסטיקה.png)
 
