@@ -16,7 +16,7 @@ This project is a management system for a large health fund, designed to handle 
 
 ## Architecture
 
-![ARCHITECTURE!](screens/ארכיטקטורה2)
+![ARCHITECTURE!](screens/ארכיטקטורה2.png)
 
 ## Screens
 
