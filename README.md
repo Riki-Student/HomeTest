@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a management system for a large health fund, designed to handle Corona records efficiently. It enables the health fund to maintain a comprehensive database of its members, allowing easy access, editing, and deletion of member records. Built with Node.js, React, and MySQL, the system provides a user-friendly interface for administrators to manage data related to Corona, ensuring timely and accurate record-keeping.
+This project is a management system for a large health fund, designed to handle Corona records efficiently. It enables the health fund to maintain a comprehensive database of its members, allowing easy access, editing, adding and deletion of member records. Built with Node.js, React, and MySQL, the system provides a user-friendly interface for administrators to manage data related to Corona, ensuring timely and accurate record-keeping.
 
 ## Features
 
